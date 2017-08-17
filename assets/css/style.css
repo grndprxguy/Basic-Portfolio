@@ -1,0 +1,12 @@
+.menu li { 
+display: inline-block; 
+align:center;
+float:right;
+padding: 14px;
+vertical-align:top;
+}
+
+#name {
+	float:left;
+	padding:14px;
+}
